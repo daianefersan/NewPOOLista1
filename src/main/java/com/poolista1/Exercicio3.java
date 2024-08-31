@@ -1,4 +1,4 @@
-package com;
+package com.poolista1;
 
 import java.util.Locale;
 import java.util.Scanner;

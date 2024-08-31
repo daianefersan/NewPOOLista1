@@ -1,10 +1,7 @@
-package com.poolista1.poolista1;
+package com.poolista1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import com.Exercicio3;
-import com.poolista1.Exercicio4;
 
 @SpringBootApplication
 public class Poolista1Application {
