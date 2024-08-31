@@ -9,7 +9,7 @@ public class Poolista1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Poolista1Application.class, args);
 
-		Exercicio4.resolucao();
+		Exercicio5.resolucao();
 		
 	}
 
