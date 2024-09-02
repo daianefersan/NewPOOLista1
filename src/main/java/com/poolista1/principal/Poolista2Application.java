@@ -9,6 +9,7 @@ import com.poolista1.principal.listamatematica2.Exercicio3;
 import com.poolista1.principal.listamatematica2.Exercicio4;
 import com.poolista1.principal.listamatematica2.Exercicio5;
 import com.poolista1.principal.listamatematica2.Exercicio6;
+import com.poolista1.principal.listamatematica2.Exercicio7;
 
 @SpringBootApplication
 public class Poolista2Application {
@@ -16,7 +17,7 @@ public class Poolista2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Poolista1Application.class, args);
 
-		Exercicio6.resolucao();
+		Exercicio7.resolucao();
 		
 	}
 
