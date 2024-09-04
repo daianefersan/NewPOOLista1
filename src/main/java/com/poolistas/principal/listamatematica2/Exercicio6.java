@@ -1,4 +1,4 @@
-package com.poolista1.principal.listamatematica2;
+package com.poolistas.principal.listamatematica2;
 import java.util.Scanner;
 
 public class Exercicio6 {
