@@ -16,7 +16,7 @@ public class Poolista3Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Poolista3Application.class, args);
 
-		Exercicio5.resolucao();
+		Exercicio1.resolucao();
 		
 	}
 

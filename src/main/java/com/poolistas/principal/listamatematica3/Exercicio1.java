@@ -18,10 +18,10 @@ public class Exercicio1 {
         System.out.print("Digite o tempo a ser cronometrado: ");
         numero= leia.nextInt();
 
-        if((numero>= 60) || (numero <=0)){
+        if((numero>= 60) || (numero < 0)){
         System.out.print("Atenção!!! Digite um número entre 1 e 59 para iniciar seu cronômetro:  ");
         }else{
-        for (int i =numero ; i > 0 ; i--) {
+        for (int i =numero ; i >= 0 ; i--) {
         System.out.println(i);
             try {
                 Thread.sleep(1000);
